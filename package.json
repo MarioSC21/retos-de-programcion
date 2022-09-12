@@ -4,7 +4,7 @@
   "description": "",
   "main": "challange1.js",
   "scripts": {
-    "run:multiplier": "ts-node challange8.ts",
+    "run:multiplier": "ts-node challange14.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
