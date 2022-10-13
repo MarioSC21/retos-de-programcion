@@ -4,6 +4,7 @@
 * retornando la suma de estos numeros
 */ 
 
+//array de number
 const numArray:number[] = [16,4,53,5,3,15]
 
 const sumarMenorMayor = (num:number[]):number => {
